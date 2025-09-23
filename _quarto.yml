@@ -24,7 +24,10 @@ website:
         icon: info-circle-fill
       - href: application.qmd
         text: Applications
-        icon: clipboard2-check
+        icon: clipboard2-
+      - href: programme.qmd
+        text: Programme
+        icon: calendar2-day
       - href: about.qmd
         text: About
         icon: people-fill
