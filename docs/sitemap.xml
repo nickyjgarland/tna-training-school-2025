@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://archaeologydataservice.ac.uk/info.html</loc>
-    <lastmod>2025-03-11T17:29:30.886Z</lastmod>
-  </url>
-  <url>
-    <loc>https://archaeologydataservice.ac.uk/application.html</loc>
-    <lastmod>2025-03-11T17:28:59.590Z</lastmod>
-  </url>
-  <url>
-    <loc>https://archaeologydataservice.ac.uk/about.html</loc>
-    <lastmod>2025-03-11T15:15:47.907Z</lastmod>
+    <loc>https://archaeologydataservice.ac.uk/programme.html</loc>
+    <lastmod>2025-09-23T14:32:35.574Z</lastmod>
   </url>
   <url>
     <loc>https://archaeologydataservice.ac.uk/index.html</loc>
     <lastmod>2025-03-11T18:26:44.532Z</lastmod>
   </url>
   <url>
-    <loc>https://archaeologydataservice.ac.uk/programme.html</loc>
-    <lastmod>2025-09-23T14:32:35.574Z</lastmod>
+    <loc>https://archaeologydataservice.ac.uk/about.html</loc>
+    <lastmod>2025-03-11T15:15:47.907Z</lastmod>
+  </url>
+  <url>
+    <loc>https://archaeologydataservice.ac.uk/application.html</loc>
+    <lastmod>2025-03-11T17:28:59.590Z</lastmod>
+  </url>
+  <url>
+    <loc>https://archaeologydataservice.ac.uk/info.html</loc>
+    <lastmod>2025-03-11T17:29:30.886Z</lastmod>
   </url>
 </urlset>
