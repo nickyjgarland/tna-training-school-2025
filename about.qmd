@@ -16,17 +16,33 @@ Nicky is the course convenor for this Training School and the [contact](nicky.ga
 
 Tim is the Deputy Director of the ADS. Tim holds responsibility for all day-to-day operational issues at the ADS, and alongside our Director Prof Julian Richards is responsible for strategic development.
 
-**Dr Katie Green** [{{< ai orcid >}} 0000-0003-2366-2587](https://orcid.org/0000-0003-2366-2587)
+**Dr Ewan Chipping**
 
-Kate is the Collections Development Manager of the ADS. Katie's main role is to develop and promote ADS digital preservation services across the UK archaeology community.
+Ewan is the HSDS Training Officer. He is responsible for designing and delivering training to users of the service.
+
+**Olivia Foster**
+
+Olivia is the Digital Archive Supervisor for the ADS. Olivia is responsible for accessioning and archiving datasets deposited with the ADS and providing supervision to the archives team.
+
+**Becky Hirst**
+
+Becky is a Digtial Archives Officer for the ADS. Becky is responsible for accessioning and archiving datasets deposited with the ADS including the creation of Special Collections for archives.
+
+**Evelyn Curl**
+
+Evelyn is the Data Standards Officer for the Heritage Science Data Service. Evelyn is responsible for developing and monitoring data and technical metadata standards for the Heritage Science Data Service (HSDS)
+
+**Grace McCulloch**
+
+Grace is the Communications and Training Assistant for the ADS and HSDS. Grace supports the development and maintenance of content for both the ADS and HSDS website and social media. Grace also assists in the development of training materials.
 
 **Dr Holly Wright** [{{< ai orcid >}} 0000-0002-3403-4159](https://orcid.org/0000-0002-3403-4159)
 
 Holly is the Research Projects Manager of the ADS. Holly manages and implements the ADS contribution to a range of major international research projects.
 
-**Kieron Niven** [{{< ai orcid >}} 0000-0002-0537-9238](https://orcid.org/0000-0002-0537-9238)
+**Judith Winters** [{{< ai orcid >}} 0000-0002-3420-2685](https://orcid.org/0000-0002-3420-2685)
 
-Kieron is Standards Manager at the ADS. Kieron has oversight for the development and maintenance of appropriate data and technical metadata standards, including the Guides to Good Practice.
+Judith is the Editor for the open access online e-journal [Internet Archaeology](https://intarch.ac.uk/). Internet Archaeology is archived by the ADS and shares the same infrastructure and management.
 
 ### ATRIUM
 
