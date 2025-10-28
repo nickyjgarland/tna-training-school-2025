@@ -15,8 +15,8 @@ Training begins each day at 9.30am and finishes at 4pm. Coffee breaks will take 
 -   Tour of Kings Manor and the ADS Offices
 -   Welcome - Outline of Training Programme
 -   Introduction to the ADS
--   Attendee introductions
 -   Collection Highlights from the ADS
+-   Attendee introductions
 
 ### Tuesday 11th November - Data Management
 
@@ -25,7 +25,8 @@ Training begins each day at 9.30am and finishes at 4pm. Coffee breaks will take 
 -   An Introduction to Data Management
 -   Data Management Plans
 -   The Importance of [Metadata](https://archaeologydataservice.ac.uk/about/endpoints.xhtml)
--   Data Storage and Backup
+-   Interactive learning session - Metadata
+-   Case Study: The CHERISH Project
 
 ### Wednesday 12th November - Digital Preservation and Quality Assurance
 
@@ -34,10 +35,12 @@ Training begins each day at 9.30am and finishes at 4pm. Coffee breaks will take 
 -   Digital Preservation Coalition - Rapid Assessment Model
 -   File Formats - Migration and Normalisation of Files
 -   Selection and Retention Strategies
+-   Data Storage and Backup
 
 ### Thursday 13th November - Dissemination and Data Reuse
 
 -   Archive Interfaces
+-   Communication and Dissemination
 -   Disseminating Research and Data - A Case Study from the ADS
 -   Designing a dissemination plan
 -   Facilitating [Data Reuse](https://archaeologydataservice.ac.uk/about/dataReuse.xhtml)
@@ -52,4 +55,10 @@ Participants will be matched with an appropriate expert from the ADS to discuss 
 
 ## Keynote lecture
 
-A keynote lecture will take place on Wednesday, 12th November at 4:00 pm, followed by a social event. Details to be confirmed.
+A keynote lecture will take place on Wednesday, 12th November at 4:00 pm, followed by a social event.
+
+### Introducing the Heritage Science Data Service: Unlocking potential for innovation in heritage science and conservation research
+
+**Dr Nicky Garland - Training and Communications Manager, ADS/HSDS**
+
+![](figs/hsds.png){fig-alt="The HSDS website homepage" fig-align="center" width="100%"}
